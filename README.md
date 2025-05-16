@@ -48,7 +48,7 @@ ConversorMonedas/
 
 │ └── TasaCambio.java # Clase para manejar la respuesta de la API
 
-
+(Puede variar dependiento de las actualizaciones)
 
 ---
 

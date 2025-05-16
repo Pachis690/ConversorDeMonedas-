@@ -9,7 +9,7 @@ Este programa es un **Conversor de monedas** hecho en Java que permite convertir
 - 🇲🇽 Peso mexicano (MXN)  
 - 🇧🇷 Real brasileño (BRL)
 
-Utiliza una API externa llamada **ExchangeRate-API** para obtener los valores de cambio actualizados.
+Utiliza una API llamada **ExchangeRate-API** para obtener los valores de cambio actualizados.
 
 ---
 

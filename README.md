@@ -54,7 +54,7 @@ ConversorMonedas/
 1. Asegúrate de tener Java instalado.
 2. Descarga la librería `gson-2.8.9.jar` y colócala en la carpeta `lib/`.
 
-### Compilar:
+### Comandos:
 
 ```bash
 Compilar

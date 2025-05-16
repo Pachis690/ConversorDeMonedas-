@@ -1,9 +1,4 @@
 # 💱 Conversor de Monedas en Java
-
-### 👨‍💻 Autor: [Tu nombre aquí]  
-### 🎓 Proyecto estudiantil en Java  
-### 🗓️ Fecha: Mayo 2025
-
 ---
 
 ## ✅ Descripción del proyecto

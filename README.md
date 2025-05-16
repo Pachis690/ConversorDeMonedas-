@@ -37,4 +37,27 @@ Utiliza una API externa llamada **ExchangeRate-API** para obtener los valores de
 ---
 
 ## 📁 Estructura del proyecto
+ConversorMonedas/
+│
+├── lib/
+│ └── gson-2.8.9.jar # Librería externa
+│
+├── src/
+│ ├── ConversorMonedas.java # Programa principal
+│ └── TasaCambio.java # Clase para manejar la respuesta de la API
 
+
+---
+
+## ▶️ Cómo compilar y ejecutar
+
+1. Asegúrate de tener Java instalado.
+2. Descarga la librería `gson-2.8.9.jar` y colócala en la carpeta `lib/`.
+
+### Compilar:
+
+```bash
+Compilar
+javac -cp "lib/gson-2.8.9.jar" -d out src/*.java
+Ejecutar:
+java -cp "lib/gson-2.8.9.jar;out" ConversorMonedas

@@ -61,6 +61,7 @@ ConversorMonedas/
 
 ```bash
 Compilar
-javac -cp "lib/gson-2.8.9.jar" -d out src/*.java
+javac -cp "lib/gson-2.13.1.jar" -d out src/*.java
 Ejecutar:
-java -cp "lib/gson-2.8.9.jar;out" ConversorMonedas
+java -cp "lib/gson-2.13.1.jar;out" ConversorMonedas
+

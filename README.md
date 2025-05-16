@@ -33,13 +33,21 @@ Utiliza una API externa llamada **ExchangeRate-API** para obtener los valores de
 
 ## 📁 Estructura del proyecto
 ConversorMonedas/
+
 │
+
 ├── lib/
+
 │ └── gson-2.8.9.jar # Librería externa
+
 │
+
 ├── src/
+
 │ ├── ConversorMonedas.java # Programa principal
+
 │ └── TasaCambio.java # Clase para manejar la respuesta de la API
+
 
 
 ---
